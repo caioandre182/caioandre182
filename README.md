@@ -3,8 +3,6 @@
 ## I am a Data Scientist who loves leveraging data-driven solutions that make an impact on business and society!
 
 <br />
-<br />
-<br />
 
 - 💻 I’m a Data Scientist
 - 📈 I’m always learning new skills. Learning never ends !
@@ -12,9 +10,7 @@
 
 
 <br />
-<br />
-<br />
-<br />
+
 
 ### Languages and Tools:
 
@@ -35,6 +31,8 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
+<br />
+
 <br />
 
 
