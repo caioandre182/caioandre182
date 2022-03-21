@@ -1,18 +1,18 @@
 ### Caio André - [Data Scientist]
 
-## I am a Data Scientist who loves leveraging data-driven solutions that make an impact on business and society!
+## Sou um Cientista de Dados que adora alavancar soluções baseadas em dados que causam impacto nos negócios e na sociedade!
 
 <br />
 
-- 💻 I’m a Data Scientist
-- 📈 I’m always learning new skills. Learning never ends !
-- 📊 I’m looking to collaborate with other Data Scientists and developers 
+- 💻 Eu sou um Cientista de Dados
+- 📈 Estou sempre aprendendo novas habilidades. O aprendizado nunca acaba!
+- 📊 Estou procurando colaborar com outros Cientistas de Dados e Desenvolvedores.
 
 
 <br />
 
 
-### Languages and Tools:
+### Linguagens e Frameworks:
 
 <img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 
