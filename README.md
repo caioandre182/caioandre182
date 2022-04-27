@@ -30,7 +30,7 @@
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img aling="left" alt="Docker" width="40px" src="https://absam.io/blog/wp-content/uploads/2020/02/Design-sem-nome-16.png"/> 
+<img aling="left" alt="Docker" width="60px" src="https://absam.io/blog/wp-content/uploads/2020/02/Design-sem-nome-16.png"/> 
 <br />
 <br />
 
