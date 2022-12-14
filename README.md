@@ -1,10 +1,8 @@
-### Caio André - [Data Scientist]
-
-## I am a Data Scientist who loves leveraging data-driven solutions that make an impact on business and society!
+### Caio André - [Developer]
 
 <br />
 
-- 💻 I am a Data Scientist.
+- 💻 I am a Developer.
 - 📈 I'm always learning new skills. Learning never ends!
 - 📊 I'm looking to collaborate with other Data Scientists and Developers.
 
