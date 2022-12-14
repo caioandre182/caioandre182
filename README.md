@@ -33,7 +33,7 @@ I'm learning at the moment <b>Docker/Linux</b> and <b>React</b>
   
 </p>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg">
 
 
           
