@@ -7,11 +7,13 @@ I'm learning at the moment <b>Docker/Linux</b> and <b>React</b>
 
 <div>
 <a href="https://instagram.com/caioverso_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="[https://www.twitch.tv/seu-usuário-aqui](https://medium.com/@caioserralvo182)" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" target="_blank"></a>
+<a href="https://medium.com/@caioserralvo182" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" target="_blank"></a>
+<a href="https://twitter.com/anticaiio" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>   
 <a href = "mailto:caioserralvo182@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caioandre-ds/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-          
+
+
 
 ## 🚀 Technologies
 
