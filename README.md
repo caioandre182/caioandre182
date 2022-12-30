@@ -2,7 +2,7 @@
 
 Back-End Developer whit a affection for Data Science and IA, Java and Spring boot fan. Currently in love for C# and .NET.
 
-I'm learning at the moment <b>Docker/Linux</b> and <b>React</b>
+I'm learning at the moment <b>Docker/Linux</b> and <b>Angular</b>
 
 
 <div>
