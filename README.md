@@ -43,3 +43,4 @@ Recentemente, comecei a estudar **Golang** com foco em desempenho, simplicidade 
 - 💼 [LinkedIn](https://www.linkedin.com/in/caioserralvo/)
 - 💻 [GitHub](https://github.com/caioandre182)
 
+🔄 Este README também está disponível em [English](README.en.md)
